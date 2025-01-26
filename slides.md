@@ -13,7 +13,7 @@ presenter: true
 drawings:
   persist: false
 transition: slide-left
-title: Rebuilding the Fallen Tent - Session 2
+title: Rebuilding the Fallen Tent - Session 3
 mdc: true
 download: true
 export:
@@ -28,84 +28,84 @@ fonts:
 
 # Rebuilding the Fallen Tent
 
-## Session 2: Whose Story is David In?
-
----
-layout: gallery-frame
-image: /dura_anointing.jpg
-work: Samuel Anoints David
-metadata: "Fresco from the Dura-Europos synagogue, Syria, ca. 3rd c. AD"
----
-
-<!--
-* The Dura-Europos synagogue consistutes of of the oldest known examples of Jewish art.
-  * One striking thing about this depiction of David is that he is portrayed as an essentially Greek or Roman figure.
-  * This David takes the form of a beardless Hellenistic youth and is anointed by a toga-wearing Samuel.
-* The depiction in the synagogue is joined by a nearby third century Christian church, which also features depictions of David, notably his battle with Goliath.
-  * For more on this, see [Michael Peppard](https://www.ancientjewreview.com/read/2016/4/18/david-as-warrior-at-dura-europos).
--->
-
----
-layout: gallery-frame
-image: /life_of_david.jpg
-work: Scenes from the Life of David
-metadata: "Illumination from the Morgan Picture Bible (Ms. Ludwig I 6, recto), ca. 1250"
----
-
----
-layout: gallery-frame
-image: /david_statue.jpg
-work: David
-metadata: "Michelangelo, c. 1501–1504"
----
-
-<!--
-* This portrayal utilizes the atheletic ideal of the Renaissance-era revival of the *classical* ideal.
-* David is dragged through time into a 16th century appropriation of a 5th century BC Greek ideal.
-* This particular work has become, in turn, an exemplar of that Renaissance appropriation.
--->
-
----
-layout: gallery-frame
-image: /david_playing_harp.jpg
-work: King David Playing the Harp
-metadata: "Gerard van Honthorst, 1622"
----
-
-<!--
-* This representation is notable for David's upward gaze, suggesting divine inspiration for his music.
--->
-
----
-layout: statement
----
-
-# A diversity of Davids... so what?
-
-<!--
-* There are a few pitfalls that we encounter when trying understand David.
-* First, there is the temptation to turn David into a moral exemplar.
-  * That is, we take the idea that David is a "man after God's own heart" and then find ways to ignore or excuse the problems that go along with David's story.
-  * For the Mark Driscolls of the world, David becomes a model of masculinity, the prototypical warrior-king. Or, better yet, a warrior-poet, or perhaps even a warrior-pastor.
-  * While there may be some good that can come of considering David in these terms, treating David as a sort of King Arthur figure or romanticizing his story will not serve us well.
-* Second, there is a related temptation to solely focus on David's flaws.
-  * This preaches very well!
-  * David was Israel's great king, but he failed in myriad ways, therefore we need a better king, i.e., Jesus.
-    * This turns David's story into one massive Jesus-juke: David was really messed up, but Jesus is our perfect king.
-  * Again, while there is some truth here, this is plainly not the way that, for example, the New Testament authors talk about David.
-    * No one in the NT says, "David was a garbage king, but Jesus is the real deal."
-* Third, we can psychologize David.
-  * David's latent presence in the Psalms prompts various levels of psychological analysis of David's character, his emotions, and his interior life.
-  * These perspectives on David are almost entirely conjecture and don't ultimately craft a reliable portrait of David as a person.
-    * While from a canonical perspective, the Davidic superscriptions are a helpful guide for situating some of the Psalms, they are not a reliable source for understanding David's life.
-    * We will address the David of the Psalms more in a future session.
--->
+## Session 3: David and the Divided Kingdom
 
 ---
 layout: statement
 ---
 
 # Whose story is David participating in?
+# **David is an inextricable part of the unfolding story of Israel's monarchy.**
+
+<!--
+* Gideon, Abimelech, Saul...
+* David's story is deeply situated in the ongoing story of Israel's monarchy in the Deuteronomistic History.
+  * The introduction of David and his initial characterization present him as someone who is tailor-made to fit into this story.
+  * There is no other larger plot that David is a part of.
+-->
+
+---
+layout: statement
+---
+
+# Without looking, what's the basic plotline of David's accession to the throne?
+
+<!--
+* David kills Goliath, enters Saul service, fights against the Philistines, Saul becomes jealous, David flees, yada yada yada, David becomes king and Israel is at peace.
+* By the way, everyone seems to love David. Saul's family, the people, everyone seems to be on David's side. David himself plays things more conservatively, but he immediately meets with public approval.
+* Not really.
+-->
+
+---
+layout: quote
+---
+
+# 1 Samuel 24:16--22
+Saul said, “Is this your voice, my son David?” Saul lifted up his voice and wept.
+He said to David, “You are more righteous than I; for you have repaid me good, whereas I have repaid you evil.
+Today you have explained how you have dealt well with me, in that you did not kill me when the <sc>Lord</sc> put me into your hands.
+For who has ever found an enemy, and sent the enemy safely away?
+So may the <sc>Lord</sc> reward you with good for what you have done to me this day.
+Now I know that you shall surely be king, and that the kingdom of Israel shall be established in your hand.
+Swear to me therefore by the <sc>Lord</sc> that you will not cut off my descendants after me, and that you will not wipe out my name from my father’s house.”
+So David swore this to Saul. Then Saul went home; but David and his men went up to the stronghold.
+
+# 1 Samuel 25:1
+Now Samuel died; and all Israel assembled and mourned for him. They buried him at his home in Ramah.
+
+<!--
+* This moment is not only a tragic and poignant one between David and Saul, it is also Saul's acknowledgment that David will be king of Israel.
+* Note especially the language of "establish the kingdom of Israel"
+* Saul has the expectation that David will rule the nation in his place.
+-->
+
+---
+layout: quote 
+---
+
+# 1 Samuel 25:37--44
+About ten days later the <sc>Lord</sc> struck Nabal, and he died. 
+When David heard that Nabal was dead, he said, “Blessed be the <sc>Lord</sc> who has judged the case of Nabal’s insult to me, and has kept back his servant from evil; the <sc>Lord</sc> has returned the evildoing of Nabal upon his own head.”
+Then David sent and wooed Abigail, to make her his wife.
+When David’s servants came to Abigail at Carmel, they said to her, “David has sent us to you to take you to him as his wife.”
+She rose and bowed down, with her face to the ground, and said, “Your servant is a slave to wash the feet of the servants of my lord.”
+Abigail got up hurriedly and rode away on a donkey; her five maids attended her. She went after the messengers of David and became his wife. 
+David also married Ahinoam of Jezreel; both of them became his wives.
+Saul had given his daughter Michal, David’s wife, to Palti son of Laish, who was from Gallim.
+
+<!--
+* This episode is interesting for a number of reasons.
+  * First, the Nabal episode basically follows the scene between David and Saul in 1 Samuel 24, so the idea of David winning out against his enemies and becoming enriched or empowered as a result is very much in the air in these two chapters.
+  * Second, the Bathsheba episode isn't the first time that David has come into conflict with someone, that person has died, and David has married the widow.
+    * The main difference is that David's reception of Abigail into his household lacks the acrimony, violence, and tragedy of the Bathsheba episode.
+    * God has struck down Nabal, not David.
+  * Third, this episode indicates the direction of David's stewardship of the kingdom even before he formally becomes king.
+    * This isn't just about David's marriage to Abigail.
+    * David was previously promised Michal as his wife, but before that marital transaction was completed, David and Saul enter into open conflict.
+    * Saul thus broke Michal's betrothal to David and gave her to Palti, which David clearly sees as a violation.
+      * In 2 Samuel 3, David makes the demand, "Give me my wife Michal" as a condition for peace between Judah and Israel.
+    * The major headline here, however, is David's multiplication of wives.
+-->
 
 ---
 layout: quote
@@ -117,114 +117,82 @@ One of your own community you may set as king over you; you are not permitted to
 Even so, he must not acquire many horses for himself, or return the people to Egypt in order to acquire more horses, since the <sc>Lord</sc> has said to you, “You must never return that way again.”
 And he must not acquire many wives for himself, or else his heart will turn away; also silver and gold he must not acquire in great quantity for himself.
 When he has taken the throne of his kingdom, he shall have a copy of this law written for him in the presence of the levitical priests.
-It shall remain with him and he shall read in it all the days of his life, so that he may learn to fear the <sc></sc> his God, diligently observing all the words of this law and these statutes, neither exalting himself above other members of the community nor turning aside from the commandment, either to the right or to the left, so that he and his descendants may reign long over his kingdom in Israel.
-
----
-layout: quote
----
-
-# Judges 8:22--28
-Then the Israelites said to Gideon, “Rule over us, you and your son and your grandson also; for you have delivered us out of the hand of Midian.”
-Gideon said to them, “I will not rule over you, and my son will not rule over you; the <sc>Lord</sc> will rule over you.”
-Then Gideon said to them, “Let me make a request of you; each of you give me an earring he has taken as \[spoil\].”...
-“We will willingly give them,” they answered. So they spread a garment, and each threw into it an earring he had taken as \[spoil\].
-The weight of the golden earrings that he requested was one thousand seven hundred shekels of gold\.\.\.\.
-Gideon made an ephod of it and put it in his town, in Ophrah; and all Israel prostituted themselves to it there, and it became a snare to Gideon and to his family.
-So Midian was subdued before the Israelites, and they lifted up their heads no more. So the land had rest forty years in the days of Gideon. 
-
----
-layout: quote
----
-
-# Judges 9:1--6
-Now Abimelech son of Jerubbaal went to Shechem to his mother’s kinsfolk and said to them and to the whole clan of his mother’s family, “Say in the hearing of all the lords of Shechem, ‘Which is better for you, that all seventy of the sons of Jerubbaal rule over you, or that one rule over you?’ Remember also that I am your bone and your flesh.”
-So his mother’s kinsfolk spoke all these words on his behalf in the hearing of all the lords of Shechem; and their hearts inclined to follow Abimelech, for they said, “He is our brother.”
-They gave him seventy pieces of silver out of the temple of Baal-berith with which Abimelech hired worthless and reckless fellows, who followed him.
-He went to his father’s house at Ophrah, and killed his brothers the sons of Jerubbaal, seventy men, on one stone; but Jotham, the youngest son of Jerubbaal, survived, for he hid himself.
-Then all the lords of Shechem and all Beth-millo came together, and they went and made Abimelech king, by the oak of the pillar at Shechem.
+It shall remain with him and he shall read in it all the days of his life, so that he may learn to fear the <sc>Lord</sc> his God, diligently observing all the words of this law and these statutes, neither exalting himself above other members of the community nor turning aside from the commandment, either to the right or to the left, so that he and his descendants may reign long over his kingdom in Israel.
 
 <!--
-* Abimelech is not chosen by God, but he is Israel's first king.
-* The referain throughout Judges that "there was no king in Israel" now takes on a different implication: there is a king in Israel, but he is not the king that will obey Deuteronomy 17.
-  * Both literally and figuratively, this king is lawless.
-  * Abimelech's attempt to set up a generational dynasty ends in disaster. He orders his armor-bearer to kill him (Judges 9:54), just as Saul will do (1 Sam 31:4). Saul's armor-bearer will refuse, but Abimelech's will not.
+* Even Saul has acknowledged David's eventual accession to Israel's throne.
+* However, David is engaging in behavior that endangers the kingdom before he is even set over it.
+* To put it another way, the "man after God's own heart" is doing precisely the thing that biblical law says will cause the heart of the king to "turn away."
 -->
 
 ---
 layout: quote
 ---
 
-# 1 Samuel 13:13--14
-Samuel said to Saul, “You have done foolishly; you have not kept the commandment of the <sc>Lord</sc> your God, which he commanded you.
-The <sc>Lord</sc> would have established your kingdom over Israel forever, but now your kingdom will not continue; the <sc>Lord</sc> has sought out a man after his own heart; and the <sc>Lord</sc> has appointed him to be ruler over his people, because you have not kept what the <sc>Lord</sc> commanded you.”
+# 2 Samuel 2:1--7
+\[After he lamented Saul's death,\] David inquired of the <sc>Lord</sc>, “Shall I go up into any of the cities of Judah?”
+The <sc>Lord</sc> said to him, “Go up.”
+David said, “To which shall I go up?”
+He said, “To Hebron.”
+**So David went up there, along with his two wives, Ahinoam of Jezreel, and Abigail the widow of Nabal of Carmel.**
+David brought up the men who were with him, every one with his household; and they settled in the towns of Hebron.
+**Then the people of Judah came, and there they anointed David king over the house of Judah.**
+When they told David, “It was the people of Jabesh-gilead who buried Saul,”
+David sent messengers to the people of Jabesh-gilead, and said to them, “May you be blessed by the <sc>Lord</sc>, because you showed this loyalty to Saul your lord, and buried him!
+Now may the <sc>Lord</sc> show steadfast love and faithfulness to you!
+And I too will reward you because you have done this thing.
+Therefore let your hands be strong, and be valiant; for Saul your lord is dead, and the house of Judah has anointed me king over them.” 
+
+---
+layout: quote
+---
+
+# 2 Samuel 2:8--11
+But Abner son of Ner, commander of Saul’s army, had taken Ishbaal son of Saul, and brought him over to Mahanaim.
+He made him king over Gilead, the Ashurites, Jezreel, Ephraim, Benjamin, and over all Israel.
+Ishbaal, Saul’s son, was forty years old when he began to reign over Israel, and he reigned two years.
+But the house of Judah followed David.
+The time that David was king in Hebron over the house of Judah was seven years and six months.
+
+---
+layout: quote
+---
+
+# 2 Samuel 5:1--5
+Then all the tribes of Israel came to David at Hebron, and said, “Look, we are your bone and flesh.
+For some time, while Saul was king over us, it was you who led out Israel and brought it in.
+The <sc>Lord</sc> said to you: It is you who shall be shepherd of my people Israel, you who shall be ruler over Israel.”
+So all the elders of Israel came to the king at Hebron; and King David made a covenant with them at Hebron before the <sc>Lord</sc>, and they anointed David king over Israel.
+David was thirty years old when he began to reign, and he reigned forty years.
+At Hebron he reigned over Judah seven years and six months; and at Jerusalem he reigned over all Israel and Judah thirty-three years.
+
+---
+layout: quote
+---
+
+# 2 Samuel 5:9--16
+David occupied the stronghold \[of Zion\], and named it the city of David.
+David built the city all around from the Millo inward.
+And David became greater and greater, for the <sc>Lord</sc>, the God of hosts, was with him.
+King Hiram of Tyre sent messengers to David, along with cedar trees, and carpenters and masons who built David a house.
+David then perceived that the <sc>Lord</sc> had established him king over Israel, and that he had exalted his kingdom for the sake of his people Israel. 
+In Jerusalem, after he came from Hebron, David took more concubines and wives; and more sons and daughters were born to David.
+These are the names of those who were born to him in Jerusalem: Shammua, Shobab, Nathan, Solomon, Ibhar, Elishua, Nepheg, Japhia, Elishama, Eliada, and Eliphelet.
 
 <!--
-* Notably, there's a separation between Israel's monarchy and the worship of God, i.e., the king is not in charge of cult.
-  * While the boundaries between priest and prophet get blurry at times, the sons of Aaron are the priests, not Moses or Israel's future kings.
-  * Moses's sons take roles as Levites, subordinate to the sons of Aaron.
-    * Likewise, the king is not a cultic leader.
-  * Saul's downfall is marked by his usurpation of cult, just like Gideon and Abimelech.
-    * Whereas Gideon imitates the Golden Calf incident, Saul does something somewhat more subtle. While this is not the worship of an image, it is still unlawful cult and therefore a violation of the law.
+* Keep in mind that the violation here is not primarily sexual, but political.
+* David has declined to observe the law in this case and has built for himself a substantial household, i.e., a powerful family, rather than relying on God to establish his kingdom.
+* It is ultimately the infighting caused by his children that diminishes the end of David's reign.
 -->
 
 ---
 layout: quote
 ---
 
-# 1 Samuel 16:6--13
-When \[the sons of Jesse\] came, \[Samuel\] looked on Eliab and thought, “Surely the <sc>Lord</sc>’s anointed is now before the <sc>Lord</sc>.”
-But the <sc>Lord</sc> said to Samuel, “Do not look on his appearance or on the height of his stature, because I have rejected him; for the <sc>Lord</sc> does not see as mortals see; they look on the outward appearance, but the <sc>Lord</sc> looks on the heart.”
-Then Jesse called Abinadab, and made him pass before Samuel\.\.\.\.
-Then Jesse made Shammah pass by\.\.\.\.
-Jesse made seven of his sons pass before Samuel, and Samuel said to Jesse, “The <sc>Lord</sc> has not chosen any of these.”
-Samuel said to Jesse, “Are all your sons here?” And he said, “There remains yet the youngest, but he is keeping the sheep.”
-And Samuel said to Jesse, “Send and bring him; for we will not sit down until he comes here.”
-He sent and brought him in.
-Now he was ruddy, and had beautiful eyes, and was handsome.
-The <sc>Lord</sc> said, “Rise and anoint him; for this is the one.”
-Then Samuel took the horn of oil, and anointed him in the presence of his brothers; and the spirit of the <sc>Lord</sc> came mightily upon <span v-mark="{ color: '#f72f47', type: 'circle', strokeWidth: 5 }">David</span> from that day forward.
-Samuel then set out and went to Ramah.
-Now the spirit of the <sc>Lord</sc> departed from Saul, and an evil spirit from the <sc>Lord</sc> tormented him.
-
----
-layout: quote
----
-
-# 1 Samuel 16:17--23
-So Saul said to his servants, “Provide for me someone who can play well, and bring him to me.”
-One of the young men answered, “I have seen a son of Jesse the Bethlehemite who is skillful in playing, a man of valor, a warrior, prudent in speech, and a man of good presence; and the <sc>Lord</sc> is with him.”
-So Saul sent messengers to Jesse, and said, “Send me your son David who is with the sheep.” ...
-And David came to Saul, and entered his service. Saul loved him greatly, and he became his armor-bearer.
-
-# 1 Samuel 17:55--58
-When Saul saw David go out against the Philistine, he said to Abner, the commander of the army, “Abner, whose son is this young man?”
-Abner said, “As your soul lives, O king, I do not know.” ...
-On David’s return from killing the Philistine, Abner took him and brought him before Saul, with the head of the Philistine in his hand.
-Saul said to him, “Whose son are you, young man?” And David answered, “I am the son of your servant Jesse the Bethlehemite.”
-
-<!--
-* It seems like there may be two introductions to David that are being spliced together.
-  * David has an origin story as the anointed replacement for Saul who then enters Saul's court as a Spirit-empowered musician.
-  * David then has a second introduction as a warrior who defeats Goliath (1 Sam 17:12--18).
-* When David comes before Saul to volunteer to fight Goliath, David's parentage is not discussed; thus, it is reasonable for Saul to ask who David is after the fact.
-* Nevertheless, as things stand in the canonical text, David is introduced to Saul twice.
-  * David's defeat of Goliath renders him unrecognizable to Saul.
-    * David's previous characterization as a shepherd is quickly replaced by a new characterization as the slayer of thousands.
-    * This sets the stage for the story of David's rise and his conflict with Saul.
--->
-
----
-layout: statement
----
-
-# The story of Israel's monarchy does not begin or end with David.
-
-<!--
-* The larger context of the Deuteronomistic History places David on a stage with Moses, the judges of Israel, and the armies of the nations.
-* David has almost no identity or characterization outside of this larger story.
-  * Any unique identity is denied to him: he is not David, the plucky son of Jesse, but the anointed successor to Saul the law-breaker (who happens to be David, son of Jesse).
-  * Saul is given comparatively extensive characterization, but David is not.
--->
+# 1 Kings 2:1--4
+When David’s time to die drew near, he charged his son Solomon, saying: “I am about to go the way of all the earth.
+Be strong, be courageous, and keep the charge of the <sc>Lord</sc> your God, walking in his ways and keeping his statutes, his commandments, his ordinances, and his testimonies, as it is written in the law of Moses, so that you may prosper in all that you do and wherever you turn.
+Then the <sc>Lord</sc> will establish his word that he spoke concerning me: ‘If your heirs take heed to their way, to walk before me in faithfulness with all their heart and with all their soul, there shall not fail you a successor on the throne of Israel.’”
 
 ---
 layout: qr-code
